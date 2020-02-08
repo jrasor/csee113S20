@@ -2,7 +2,8 @@
 ## Welcome!
 This GitHub repository contains the source code for Bosco Tech course CSEE 113, Introduction to
 Robotics. It is developed from https://github.com/first-tech-challenge/SkyStone designed to control 
-a *FIRST* Tech Challenge competition robot for the SkyStone (2019-2020) season.  
+a *FIRST* Tech Challenge competition robot for the SkyStone (2019-2020) season. Code from FTC Team 
+5197 contributed most of the added code.
 To use this SDK, download/clone this entire project to your local computer.
 
 ## Getting Started
